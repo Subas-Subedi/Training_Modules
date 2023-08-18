@@ -1,4 +1,4 @@
-# Subas_Training Moudule
+# Subas Subedi_Training Module
 
 ## Answers:
 
